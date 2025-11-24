@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 1.5rem;
+    align-content: center;
+}
+
+.btn:hover {
+    font-size: 1.5rem;
+    box-shadow: 0 16px 20px rgba(0, 0, 0, 0.2);
+    scale: 1.01;
+    transition: ease-in-out;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: #222831;
+}
+
+h2 {
+    color: #393E46;
+}
+
+h3 {
+    color: #393E46;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: black;
+}
