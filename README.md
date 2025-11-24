@@ -26,7 +26,7 @@ This project is a web-based version of that game, designed to run in a browser w
 
 ## How to Play
 
-1. Open the game in your browser (see [Live Demo](#)).  
+1. Open the game in your browser.  
 2. Click **Start** to begin.  
 3. Watch the sequence of colors lighting up.  
 4. Repeat the sequence by clicking on the same colored buttons in the same order.  
